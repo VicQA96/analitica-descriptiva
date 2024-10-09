@@ -12,6 +12,7 @@ Este proyecto tiene como objetivo desarrollar un análisis diagnóstico basado e
 
 - **Analítica_Diagnostica.ipynb** : Este notebook se centra en la visualización de datos utilizando gráficos y en los resultados de los test mencionados anteriormente.
 - **Ingres.xlsl** : Archivo con nuevos datos para la ayuda de las hipótesis y extraer nuevos datos estadisticos.
+- **Postulantes.xlsl** : Archivo con nuevos datos para la ayuda de las hipótesis y extraer nuevos datos estadisticos.
 
 
 ## Tecnologías utilizadas
@@ -46,7 +47,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 >Si no está familiarizado con colab aquí está el link directo al proyecto 
->donde solo tiene que dar click a 'Ejecutar todas las celdas'
+>donde solo tiene que solicitar permiso al archivo y dar click a 'Ejecutar todas las celdas'
 >[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tUTq2pOXEGMt89YqudiZsLYtAcxv1kgc?usp=sharing)
 
 ## Licencia
